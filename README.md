@@ -1,6 +1,5 @@
 ## Hello 👋
 
-**RantanenJP/RantanenJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on a dashboard for industrial production
 - 🌱 I’m currently learning python and editing data in Shiny
 - 👯 I’m looking to collaborate on editing and imputation models
